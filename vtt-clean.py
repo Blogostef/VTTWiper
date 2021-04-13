@@ -1,6 +1,5 @@
 """
 author Blogostef
-admin@blogostef.com
 WBS
 2021
 """
